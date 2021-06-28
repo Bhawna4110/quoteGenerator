@@ -47,10 +47,15 @@ font-family: 'Patrick Hand', cursive;
      .container{
          width:70%;
          height:40%;
-         margin-top: 32%;
+         margin-top: 42%;
 
      }
      svg{
          display:none;
      }
+     button{
+         outline: none;
+         border: none;
+     }
+    
  }
